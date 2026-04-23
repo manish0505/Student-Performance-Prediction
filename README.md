@@ -7,7 +7,7 @@ The **Student Performance Prediction System** is a Machine Learning web applicat
 This project was built using **Python, Machine Learning, and Streamlit** to create an interactive and user-friendly prediction system.
 
 🔗 GitHub Repository:
-<PRIVATE_URL>
+[<PRIVATE_URL>](https://github.com/manish0505/Student-Performance-Prediction.git)
 
 ---
 
@@ -89,15 +89,11 @@ streamlit run app.py
 
 ### Home Interface
 
-```md id="mk5lgh"
 ![Demo 1](demo1.png)
-```
 
 ### Prediction Interface
 
-```md id="7r0vhz"
 ![Demo 2](demo2.png)
-```
 
 ---
 
